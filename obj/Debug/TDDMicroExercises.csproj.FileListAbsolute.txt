@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Downloads\RefactorMircoExcercise-master\RefactorMircoExcercise-master\src\bin\Debug\TDDMicroExercises.dll
+C:\Users\ADMIN\Downloads\RefactorMircoExcercise-master\RefactorMircoExcercise-master\src\bin\Debug\TDDMicroExercises.pdb
+C:\Users\ADMIN\Downloads\RefactorMircoExcercise-master\RefactorMircoExcercise-master\src\bin\Debug\nunit.framework.dll
+C:\Users\ADMIN\Downloads\RefactorMircoExcercise-master\RefactorMircoExcercise-master\src\bin\Debug\nunit.framework.xml
+C:\Users\ADMIN\Downloads\RefactorMircoExcercise-master\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\RefactorMircoExcercise-master\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\RefactorMircoExcercise-master\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\RefactorMircoExcercise-master\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.dll
+C:\Users\ADMIN\Downloads\RefactorMircoExcercise-master\RefactorMircoExcercise-master\src\obj\Debug\TDDMicroExercises.pdb
